@@ -8,7 +8,7 @@ terraform {
 
 
   backend "remote" {
-    organization = "josecitonube"
+    organization = "josecitoCompany"
 
     workspaces {
       name = "terragit"
